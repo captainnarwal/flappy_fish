@@ -44,9 +44,9 @@ body {
 #gameoverscreen button {
   position: absolute;
   z-index: 1;
-  left: calc(45vw);
+  left: calc(40vw);
   top: 40vh;
-  width: 10vw;
+  width: 120px;
   text-align: center;
   color: rgb(255, 255, 74);
   font-weight: normal;
