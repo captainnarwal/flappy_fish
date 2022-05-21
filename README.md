@@ -1,2 +1,2 @@
-# flappy_fish
+#flappyfish-narwal
 flappy fish game
