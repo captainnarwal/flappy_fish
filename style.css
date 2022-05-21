@@ -44,12 +44,13 @@ body {
 #gameoverscreen button {
   position: absolute;
   z-index: 1;
-  left: calc(40vw);
+  left: calc(0vw);
   top: 40vh;
-  width: 120px;
+  width: 100vw;
   text-align: center;
   color: rgb(255, 255, 74);
   font-weight: normal;
+  background-color: transparent;
 }
 #gameoverscreen .title {
   margin-top: -65px;
